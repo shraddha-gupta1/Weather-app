@@ -113,7 +113,7 @@ body{
   }
   @media screen and (max-width: 700px) {
     .card{
-      width: 23rem;
+      width: 20rem;
       height: 28rem;
       border-radius: 50px;
       box-shadow: 6px 6px 4px rgba(0, 0, 0, 0.248),-6px -6px 4px rgba(48, 48, 48);
